@@ -1,6 +1,6 @@
 # Problem
 
-With the configuration in this repository (Typescript 5.3.2, ts-node 10.9.1), trying to run the Typescript file with `ts-node` fails:
+With the configuration in this repository (Node.js 20.9.0, Typescript 5.3.2, ts-node 10.9.1), trying to run the Typescript file with `ts-node` fails:
 
 ```
 [virtualwolf@shade:~/Downloads/tsconfig-test]$ npm run start:dev
