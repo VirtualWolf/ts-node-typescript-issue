@@ -28,7 +28,7 @@ error TS6053: File '@tsconfig/node20/tsconfig.json' not found.
 }
 ```
 
-# Fix 1: Change `tsconfig.json`'s' `extends` path
+# Fix 1: Change `tsconfig.json`'s `extends` path
 
 ```diff
 {
